@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "audio-system-upgrade",
+    "metadata": {
+      "title": "Audio System Upgrade - Honda Brio 2012",
+      "publishedAt": "2025-02-27",
+      "summary": "Upgrading from stock speakers to a complete audio system with amplifier, component speakers, and sound dampening."
+    },
+    "photos": [
+      "/blog/audio/IMG_0287_11.23.38.jpg",
+      "/blog/audio/IMG_0290_11.23.38.jpg",
+      "/blog/audio/IMG_0307_11.23.38.jpg",
+      "/blog/audio/IMG_0308_11.23.38.jpg",
+      "/blog/audio/IMG_0330_11.23.38.JPG",
+      "/blog/audio/IMG_0259_11.23.38.JPG",
+      "/blog/audio/IMG_0269.JPG",
+      "/blog/audio/IMG_1258.jpg",
+      "/blog/audio/IMG_1260_2.jpg"
+    ],
+    "rawContent": "# Audio System\n\n**MODEL:** Honda Brio 2012  \n**TRANSMISSION:** 5 Speed Manual  \n**ENGINE:** L12 I-VTEC Petrol\n\nMost budget cars come with subpar stock speakers, and the Brio is no exception. It had four door speakers and a cheap head unit (Mitsubishi Electric) that was solely responsible for amplifying and digitally processing the audio signal.  Obviously, it was extremely horrible.\n\nSo the next thing I started working on was a sound upgrade. I bought a basic Sony amplifier (XM-N1004), a set of Polk Audio component speakers (DB6502), and a pair of coaxial speakers for the back doors (Polk Audio DB652). I also acquired Pioneer dampening sheets to lower NVH levels in the car, which improved the mid bass from the speakers as well as the overall sound experience. This was the easiest part.\n\nI started by removing the seat and door panels. To ensure appropriate adhesion of the dampening sheet, clean all of the door panels and contact surfaces with Isopropyl Alcohol. I also purchased one roller to eliminate any air from between the contacts. I purchased amplifier wiring from Blaupunkt and speaker wires from Amazon (100% oxygen-free copper).\n\nThe wiring was more difficult than I expected; transferring the cable from dashboard to doors required a lot of work. I also needed to purchase universal speaker rings to secure the new speakers in place. It was also difficult to get the amplifier power line from the engine bay through the firewall. It took me two days to completely install the new audio setup, but I had a nice time.\n\n## OUTCOMES:\n\n### Positives:\n\n1. Improved sound quality and distribution.\n2. Reduced NVH and improved mid-bass.\n3. I used High-Level Input instead of RCA cables, therefore there is no buzzing sound (clean sound output).\n\n### Negatives:\n\n1. I wanted to preserve the OEM audio unit for the way it looks and iPod mode feature. It works great, although a few songs sound off (perhaps the stock DSP settings are fixed for the cheap factory speakers). The system will sound better with a new high-quality stereo unit.\n2. Subwoofer should be prioritized above rear door speakers. I did the opposite. Without a subwoofer, the system will be unable to produce strong/punchy low frequencies/bass."
+  },
+  {
+    "slug": "wheels-tyres-upgrade",
+    "metadata": {
+      "title": "Wheels & Tyres Upgrade - OEM+ Approach",
+      "publishedAt": "2025-02-15",
+      "summary": "Upgrading from 14-inch steel wheels to Honda Jazz Enkei alloys with Bridgestone Turanza premium tyres."
+    },
+    "photos": [
+      "/blog/wheels/IMG_0242_11.23.38.JPG",
+      "/blog/wheels/IMG_0255.JPG"
+    ],
+    "rawContent": "# TYRES/WHEELS UPGRADE\n\nThis variant of the Brio had 14-inch steel wheels with worn-out tires (175/65/R14), which is why the grip was also poor. I had a couple of choices for an upgrade: \n\n1. Fresh new aftermarket wheels. \n2. OEM+ upgrade. \n\nI couldn't find any tasteful wheels in my city that fit my budget, and the ones I did see were either way too wide or had too much negative offset. I had to stretch the tyre size if I wanted to get them on the car. Honestly, I'm not a fan of that setup; it looks pretty cheap. Just to compare, Brio had 5J wide wheels, while the market was only offering wheels that started at 7J. I went with the OEM+ option.\n\nI found a set of used Honda jazz alloy wheels( Enkei 5.5J ), which were in very bad condition. Found a guy to repaint them. Result was very good.\n\nI went with Bridgestone Turanza 6i 195/55/R15 for the tyres. These tires are all about comfort, grip, low road noise, and solid braking. They might be pricey, but totally worth it. I checked out https://www.mycarhelpline.com to figure out the upgrade wheel/tyre size. People online say the size shouldn't be more than 2%, but it can go up to 3% in some situations. It messes with the ABS calibration, driving dynamics, and speedometer sensor. The upgrade was 2.22%, and since the Brio doesn't have any ABS system, I didn't run into any issues at all. It worked perfectly."
+  },
+  {
+    "slug": "major-service-brio",
+    "metadata": {
+      "title": "Major Service - Complete Honda Brio Maintenance",
+      "publishedAt": "2025-10-20",
+      "summary": "Comprehensive DIY service including spark plugs, coolant flush, throttle body cleaning, MAF sensor, and more."
+    },
+    "photos": [
+      "/blog/major-service/IMG_1107.jpg",
+      "/blog/major-service/IMG_1109.jpg",
+      "/blog/major-service/IMG_1110.jpg",
+      "/blog/major-service/IMG_1111.JPG",
+      "/blog/major-service/IMG_1118.jpg",
+      "/blog/major-service/IMG_2342.jpg",
+      "/blog/major-service/IMG_1124.jpg",
+      "/blog/major-service/IMG_1125.JPG",
+      "/blog/major-service/IMG_1126.JPG",
+      "/blog/major-service/IMG_1127.JPG",
+      "/blog/major-service/IMG_1128.JPG",
+      "/blog/major-service/IMG_1132.jpg",
+      "/blog/major-service/IMG_1254.jpg",
+      "/blog/major-service/IMG_1255.jpg",
+      "/blog/major-service/IMG_1256_2.jpg"
+    ],
+    "rawContent": "# MAJOR SERVICE\n\n## 1. New Spark Plugs\n\nThe center electrode was completely gone. It's hard to find Honda parts in my city, but I was able to find the exact model (NGK BKR6E-11) at a nearby parts shop. I used a measuring tool that I bought on Amazon to check the gap between the wires again. It was exactly 1.1 mm.\n\n## 2. Coolant Flush\n\nThe coolant needed to be changed, and the radiator was extremely dusty. I started with a coolant flush, using Liquid Moly radiator cleanser and distilled water. The water came out clean on the second cycle.\n\nThen I removed the radiator (removing coolant lines was a challenge) and coolant reservoir tank and thoroughly cleaned them. Always take caution when working with radiators because the fins are very flimsy and can easily bend, reducing the radiator's effectiveness.\n\nFinally, after reassembling everything, I poured in the new coolant and started the car until all of the air had been gone. When the air is removed, continue to pour more coolant.\n\n## 3. Throttle Body Cleaning\n\nI was experiencing minute RPM fluctuation and the throttle body had never been properly serviced previously. So I decided to remove the throttle body and clean it properly myself.\n\nTo remove the throttle body, I first had to remove the intake assembly.  Also, always disconnect the battery's negative terminal before tampering with anything electrical in the automobile.  For cleaning, I used 3M throttle body cleaner, which worked well. (While cleaning, wear safety glasses and gloves because the cleaner included extremely harsh chemicals, and the location should be well-ventilated).\n\nReassembled everything and rechecked all hoses and connectors using the images I took immediately before removing anything.  The OBD scanner is required to reconfigure the ECU's idle RPM settings.  However, there are ways to have the car relearn the idle RPM on its own.  In Brio, simply turn off all electrical devices, then turn the key to 2, wait a minute, and start the car. Leave it for 10 minutes, and you're done.\n\n## 4. Mass Air Flow Sensor And Intake Manifold Sensor\n\nIf the car's mass airflow sensor is clogged with dust particles, it will give incorrect data to the ECU, resulting in low mileage and power. The MAF sensor is located directly in the intake assembly of the vehicle. While cleaning this sensor, I also cleaned the intake manifold sensor.\n\nThe MAF sensor has highly fragile components, so remove it gently and clean it with only MAF sensor cleaner. This cleanser leaves no residue and is designed to avoid damaging any delicate components. I used Liqui Moly's Luftmassen-sensorreiniger.\n\n## 5. Alternator Belt And Pulley\n\nThe belt was very dry and already served more than 70k kilometres, got it changes with pulley from Honda workshop.\n\n## 6. Rotors Resurfacing And New Brake Pads"
+  }
+]
