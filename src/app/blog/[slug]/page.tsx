@@ -104,20 +104,6 @@ export default async function Blog({
 				</Suspense>
 			</div>
 
-			{post.photos && post.photos.length > 0 && (
-				<div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8 max-w-[650px]">
-					{post.photos.map((photo: string, index: number) => (
-						<div key={index} className="relative aspect-video w-full overflow-hidden rounded-lg">
-							<img
-								src={photo}
-								alt={`${post.metadata.title} - Image ${index + 1}`}
-								className="object-cover w-full h-full"
-							/>
-						</div>
-					))}
-				</div>
-			)}
-
 			<article className="prose dark:prose-invert" dangerouslySetInnerHTML={{ __html: html }}></article>
 		</section>
 	);
